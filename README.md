@@ -1,17 +1,15 @@
 <div align="center">
-  <img src="./assets/node_hud.svg" width="100%" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1600&pause=300&color=00FF41&center=true&vCenter=true&width=780&lines=%3E_+EXECUTING+NODE+%3A%3A+MCP-CYBER-BRIDGE;%3E_+KERNEL+STACK+%3A%3A+PYTHON+ENCRYPTED+PIPELINE;%3E_+STATUS+%3A%3A+100%25+AUTONOMOUS+OPERATION" />
-  <img src="./assets/node_pulse.svg" width="100%" />
+  <img src="./assets/unique_hud.svg" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&color=FF0055&center=true&vCenter=true&width=760&lines=NODE%3A+MCP-CYBER-BRIDGE+%5BRED-TEAM+EXPLOIT+SHIELD%5D;RUNTIME%3A+PYTHON+%7C+ZERO-LATENCY+VERIFIED" />
 </div>
 
-```diff
-+ [NODE TELEMETRY] :: MCP-CYBER-BRIDGE
-+ Architecture     :: Model Context Protocol Neural Command & Control Bridge
-+ Primary Kernel   :: PYTHON
-+ Root Operator    :: hamza-evolution
-! Security Status  :: HARDENED & VERIFIED
-```
+<div align="center">
+  <img src="https://img.shields.io/badge/THEME-RED-TEAM_EXPLOIT_SHIELD-FF0055?style=for-the-badge&labelColor=0B0205" /> <img src="https://img.shields.io/badge/STACK-PYTHON-00F0FF?style=for-the-badge&labelColor=0B0205" />
+</div>
+
+### `>_` ARCHITECTURE SPEC
+> Model Context Protocol Neural Command & Control Bridge
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03070B,50:00FF41,100:00E5FF&height=115&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0B0205,50:FF0055,100:00F0FF&height=110&section=footer" width="100%" />
 </div>
